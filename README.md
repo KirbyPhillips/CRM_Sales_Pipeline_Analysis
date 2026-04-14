@@ -146,7 +146,9 @@ FACT_CRM (3,000 rows, 15 columns)
 
 This image below shows all the above mentioned components of this data model in a logical star schema design. It illustrates the relationship between the central FACT_CRM table and supporting dimension tables, structured to enable scalable and efficient analytical reporting.
 
-**Data model image:**
+**Data model:**
+
+![Alt text](images/CRM%20Data%20Model.png)
 
 #### 3) Relationships
 
