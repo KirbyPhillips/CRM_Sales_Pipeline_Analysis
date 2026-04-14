@@ -198,6 +198,8 @@ The data model is structured as a star schema with one central fact table (FACT_
 
 #### Measures Organisation and Model Optimisation
 
+![Alt text](images/CRM%20Measures.png)
+
 ---
 
 ### PHASE 4: Report Building (Power BI)
