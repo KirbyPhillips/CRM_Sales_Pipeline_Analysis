@@ -76,7 +76,9 @@ A structured, end-to-end workflow was followed to transform a raw CRM export int
 - Removed `Latitude` and `Longitude` from `FACT_CRM` as these now belong exclusively to `DIM_Countries`
 - Built `DIM_Calendar` from scratch in Power Query using M code, spanning January 2024 to December 2025 with 12 columns: Date, Year, Month Number, Month Name, Month Short, Month Initial, Quarter, Weekday Number (Monday=1, Sunday=7), Weekday, Weekday Short, Weekday Initial, and Year-Month
 
-**Data prep image:**
+**Data prep:**
+
+![Alt text](images/CRM%20Data%20prep.png)
 
 ---
 
