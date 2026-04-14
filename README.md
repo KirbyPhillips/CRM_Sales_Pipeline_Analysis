@@ -258,22 +258,19 @@ This section translates key analytical findings into clear, actionable strategie
 
 ## 6. In Hindsight
 
-This analysis covers the full scope of the CRM dataset as it was provided, spanning 3,000 leads across 9 European countries between January and May 2024. Looking back, there are genuine things I would do differently.
+This analysis covers the full scope of the CRM dataset as it was provided, spanning 3,000 leads across 9 European countries between January and May 2024. Looking back, these are some things I would do differently:
 
 **5 months is not enough data.**
-- You cannot draw meaningful conclusions about seasonality or pipeline trends from 5 months. In hindsight, I would have scoped the brief around what the data could actually support and been more explicit about that limitation upfront.
-
-**The Exec Overview was built last.**
-- That was the wrong order. It should have been built first, before any other page, so that every subsequent page was designed to support one clear executive story rather than assembled from whatever already existed.
+- It's challenging to draw meaningful conclusions about seasonality or pipeline trends from 5 months' worth of data. Scoping the brief around what the available data could realistically support, and stating that limitation explicitly as part of the project deliverable.
 
 **David Wilson was identified but not investigated.**
-- The analysis flags him as the clearest underperformer and stops there. A stronger piece of work would have dug into what specifically separates his lost deals from Sarah Davis's won deals — by industry, product, deal value range, and organisation size. The data supports it. I just did not build it.
+- The analysis flagged David as the an underperformer and Sarah as a top performer. The gap between these two agents deserved deeper investigation to determine the types of deals, industries, and organisation sizes each agent was winning and losing, and whether a pattern existed that could inform targeted coaching.
 
 **Close Date Variance was treated as a team problem.**
-- But it might not be. Some agents forecast accurately. Others consistently miss. I would have broken this down by agent rather than reporting it as a single team-wide finding.
+- Close Date Variance was reported as a single team-wide finding. But breaking it down by agent would have revealed whether the forecasting problem was systemic across the team or concentrated in specific individuals. Those are two very different problems that require two different responses from management.
 
 **The probability values were never validated.**
-- 40% was the most common probability across the entire dataset — almost certainly a default entry, not a genuine assessment. Building a $3.7M weighted forecast on top of that is a significant flaw. In a future iteration, I would build the forecast on historical close rates by stage instead.
+- The most common probability value across the entire dataset was 40%, appearing on 580 leads. That is almost certainly a default entry rather than a genuine deal assessment. Building a weighted pipeline forecast of $3.7M on top of unvalidated probability values undermines the reliability of that figure. In a future iteration, the forecast would be built on historical close rates by stage, grounding it in actual outcomes rather than assumed probabilities.
 
 ---
 
