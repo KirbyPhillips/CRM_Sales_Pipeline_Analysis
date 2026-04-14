@@ -261,7 +261,7 @@ This section translates key analytical findings into clear, actionable strategie
 This analysis covers the full scope of the CRM dataset as it was provided, spanning 3,000 leads across 9 European countries between January and May 2024. Looking back, these are some things I would do differently:
 
 **Insufficient data:**
-- It's challenging to draw meaningful conclusions about seasonality or pipeline trends from 5 months' worth of data. Scoping the brief around what the available data could realistically support, and stating that limitation explicitly as part of the project deliverable.
+- It's challenging to draw meaningful conclusions about seasonality or pipeline trends from 5 months' worth of data. In a future iteration, the brief would be scoped around what the available data could realistically support, with that limitation stated explicitly as part of the project deliverable.
 
 **Under Performer vs Top Performer:**
 - The analysis flagged David as the an underperformer and Sarah as a top performer. The gap between these two agents deserved deeper investigation to determine the types of deals, industries, and organisation sizes each agent was winning and losing, and whether a pattern existed that could inform targeted coaching.
