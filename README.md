@@ -260,16 +260,16 @@ This section translates key analytical findings into clear, actionable strategie
 
 This analysis covers the full scope of the CRM dataset as it was provided, spanning 3,000 leads across 9 European countries between January and May 2024. Looking back, these are some things I would do differently:
 
-**5 months is not enough data.**
+**Insufficient data:**
 - It's challenging to draw meaningful conclusions about seasonality or pipeline trends from 5 months' worth of data. Scoping the brief around what the available data could realistically support, and stating that limitation explicitly as part of the project deliverable.
 
-**David Wilson was identified but not investigated.**
+**Under Performer vs Top Performer:**
 - The analysis flagged David as the an underperformer and Sarah as a top performer. The gap between these two agents deserved deeper investigation to determine the types of deals, industries, and organisation sizes each agent was winning and losing, and whether a pattern existed that could inform targeted coaching.
 
-**Close Date Variance was treated as a team problem.**
+**Close Date Variance:**
 - Close Date Variance was reported as a single team-wide finding. But breaking it down by agent would have revealed whether the forecasting problem was systemic across the team or concentrated in specific individuals. Those are two very different problems that require two different responses from management.
 
-**The probability values were never validated.**
+**Probability values not validated:**
 - The most common probability value across the entire dataset was 40%, appearing on 580 leads. That is almost certainly a default entry rather than a genuine deal assessment. Building a weighted pipeline forecast of $3.7M on top of unvalidated probability values undermines the reliability of that figure. In a future iteration, the forecast would be built on historical close rates by stage, grounding it in actual outcomes rather than assumed probabilities.
 
 ---
