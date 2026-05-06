@@ -284,7 +284,7 @@ This analysis covers the full scope of the CRM dataset as it was provided, spann
 
 The 2 page business report can be found [here](./CRM%20Business%20Report.pdf).
 
-For any inquiries, reach out to the author through the information provided below.
+For any inquiries, email me: kirby@primepeakinsights.com
 
 ---
 
