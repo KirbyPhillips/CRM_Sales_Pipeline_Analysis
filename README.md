@@ -1,5 +1,9 @@
 # CRM Sales Pipeline Analysis 2024
 
+### Note: 
+
+This repository outlines the full technical process used in the analysis. Key business insights and recommendations are provided at the end, including a link to the comprehensive 2 page business report.
+
 ## Table of Contents
 
 This repository is structured to walk you through the end-to-end process of the CRM Sales Pipeline Analysis, from the initial business problem through to the final insights and reflections. Each section builds on the previous one, following the same logical flow used to plan and execute the analysis itself.
