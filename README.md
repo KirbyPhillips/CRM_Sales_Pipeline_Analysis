@@ -282,7 +282,6 @@ This analysis covers the full scope of the CRM dataset as it was provided, spann
 
 ## 7. Concluding notes
 
-The interactive dashboard of this project can be viewed [here](https://bit.ly/4trOdf8).   
 For any inquiries, reach out to the author through the information provided below.
 
 ---
