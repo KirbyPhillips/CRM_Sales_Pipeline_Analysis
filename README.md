@@ -249,8 +249,6 @@ Built 5 report pages, each focused on one of the four analytical themes defined 
 | Calculated Columns | 3 | Days to Expected Close, Days to Actual Close, Close Date Variance |
 -->
 
---- 
-
 ## 5. Insights for the Business
 
 This section translates key analytical findings into clear, actionable strategies that directly support pipeline growth and revenue conversion. It enables the business to make data-driven decisions by highlighting where to focus resources for the greatest commercial impact moving forward.
