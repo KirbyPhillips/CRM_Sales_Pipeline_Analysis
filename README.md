@@ -230,7 +230,7 @@ Built 5 report pages, each focused on one of the four analytical themes defined 
 - Set the Y-axis minimum to zero on the Monthly Lead Acquisition Trend area chart to ensure honest representation of lead volume fluctuation.
 - Applied cohesion, aesthetic, rhythm, and emphasis considerations throughout all 5 report pages.
 
-![Alt text](images/_Ocean%20Mist%20Pipeline%20Health.png)
+![Alt text](images/Ocean%20Mist%20Pipeline%20Health.png)
 
 ![Alt text](images/CRM%20Pipeline%20Health.png)
 
