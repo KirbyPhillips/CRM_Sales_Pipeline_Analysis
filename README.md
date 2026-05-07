@@ -29,7 +29,7 @@ As a result, stakeholders were unable to answer critical business questions, suc
 
 This project was built to bridge that gap by transforming a raw CRM export into a structured, end-to-end Power BI analytics solution. The goal was to enable clear visibility into pipeline health, support data-driven sales management decisions, and uncover actionable insights across agents, industries, products, and geographies.
 
-![Alt text](images/CRM%20Exec%20Overview.png)
+![Alt text](images/CRM%20Executive%20Overview.png)
 
 ---
 
