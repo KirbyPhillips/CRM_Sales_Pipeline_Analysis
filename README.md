@@ -122,7 +122,7 @@ This is a summary of the table structure:
 
 | Table | Rows | Columns | Description |
 |---|---|---|---|
-| FACT_CRM | 3,000 | 15 | Central fact table — all lead records, measures, and foreign keys |
+| FACT_CRM | 3,000 | 15 | Central fact table - all lead records, measures, and foreign keys |
 | DIM_Agents | 8 | 1 | 8 unique sales agents |
 | DIM_Countries | 9 | 3 | Country name, latitude, and longitude |
 | DIM_Industries | 14 | 1 | 14 industry categories |
