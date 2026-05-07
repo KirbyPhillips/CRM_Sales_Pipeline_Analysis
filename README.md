@@ -225,10 +225,10 @@ Built 5 report pages, each focused on one of the four analytical themes defined 
 **Steps:**
 
 - Applied the custom Ocean Mist JSON theme across all visual types, built by adapting the Emerald Tide theme structure and replacing the full colour palette with the CRM project's 5-colour Ocean Mist palette.
-- Manually assigned stage colours for the Opportunity Stage Distribution chart to ensure all 6 stages were clearly distinguishable against the light blue page background
-- Added average reference lines to the Agent Performance Overview scatter plot to divide the chart into four performance quadrants
-- Set the Y-axis minimum to zero on the Monthly Lead Acquisition Trend area chart to ensure honest representation of lead volume fluctuation
-- Applied cohesion, aesthetic, rhythm, and emphasis considerations throughout all 5 report pages
+- Manually assigned stage colours for the Opportunity Stage Distribution chart to ensure all 6 stages were clearly distinguishable against the light blue page background.
+- Added average reference lines to the Agent Performance Overview scatter plot to divide the chart into four performance quadrants.
+- Set the Y-axis minimum to zero on the Monthly Lead Acquisition Trend area chart to ensure honest representation of lead volume fluctuation.
+- Applied cohesion, aesthetic, rhythm, and emphasis considerations throughout all 5 report pages.
 
 ![Alt text](images/Ocean%20Mist%20Pipeline%20Health.png)
 
