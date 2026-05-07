@@ -285,6 +285,7 @@ This analysis covers the full scope of the CRM dataset as it was provided, spann
 ## 7. Concluding notes
 
 The interactive dashboard of this project can be viewed [here](https://bit.ly/48MEY1a).
+
 The 2 page business report can be found [here](./CRM%20Business%20Report.pdf).
 
 For any inquiries, email me: kirby@primepeakinsights.com
