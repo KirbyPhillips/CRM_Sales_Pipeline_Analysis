@@ -181,8 +181,8 @@ The data model is structured as a star schema with one central fact table (FACT_
 - Analyse pipeline health month-over-month across all 5 lead acquisition months using the active relationship between DIM_Calendar and FACT_CRM via Lead Acquisition Date.
 - Forecast weighted pipeline income by multiplying each lead's Deal Value by its close Probability, producing a risk-adjusted revenue estimate of $3.7M against a total pipeline value of $8.3M.
 - Activate inactive date relationships using USERELATIONSHIP() in DAX to analyse performance by Expected Close Date or Actual Close Date, enabling forecast accuracy and sales cycle duration analysis.
-- Compare agent performance across Win Rate, Conversion Rate, average deal value, median deal value, and sales cycle duration — surfacing performance gaps such as David Wilson at 33.3% Win Rate versus Sarah Davis at 72.7% on a comparable lead volume.
-- Measure sales cycle efficiency using 3 calculated columns: Days to Expected Close, Days to Actual Close, and Close Date Variance — enabling precise diagnosis of forecast accuracy at the individual lead level.
+- Compare agent performance across Win Rate, Conversion Rate, average deal value, median deal value, and sales cycle duration - surfacing performance gaps such as David Wilson at 33.3% Win Rate versus Sarah Davis at 72.7% on a comparable lead volume.
+- Measure sales cycle efficiency using 3 calculated columns: Days to Expected Close, Days to Actual Close, and Close Date Variance - enabling precise diagnosis of forecast accuracy at the individual lead level.
 
 ---
 
