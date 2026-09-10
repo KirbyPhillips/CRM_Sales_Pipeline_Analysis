@@ -287,15 +287,19 @@ This analysis covers the full scope of the CRM dataset as it was provided, spann
 The interactive dashboard of this project can be viewed [here](https://bit.ly/4oBKZV4).   
 The 2 page business report can be found [here](./CRM%20Business%20Report.pdf).
 
-For any inquiries, email me: kphillips.za@gmail.com
-
 ---
 
 ## Author
 
 **Kirby Phillips**
 
-Data Consultant | [LinkedIn](https://www.linkedin.com/in/kirbykphillips/)
+Data Consultant | BI & Data Science
+
+For any inquiries, contact me: 
+
+Email: kphillips.za@gmail.com
+
+DM on: [LinkedIn](https://www.linkedin.com/in/kirbykphillips/)
 
 
 
