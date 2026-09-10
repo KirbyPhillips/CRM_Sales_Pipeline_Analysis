@@ -287,7 +287,7 @@ This analysis covers the full scope of the CRM dataset as it was provided, spann
 The interactive dashboard of this project can be viewed [here](https://bit.ly/4oBKZV4).   
 The 2 page business report can be found [here](./CRM%20Business%20Report.pdf).
 
-For any inquiries, email me: kirby@primepeakinsights.com
+For any inquiries, email me: kphillips.za@gmail.com
 
 ---
 
@@ -295,7 +295,7 @@ For any inquiries, email me: kirby@primepeakinsights.com
 
 **Kirby Phillips**
 
-BI Developer | Data Analyst [LinkedIn](https://www.linkedin.com/in/kirbykphillips/)
+Data Consultant | [LinkedIn](https://www.linkedin.com/in/kirbykphillips/)
 
 
 
