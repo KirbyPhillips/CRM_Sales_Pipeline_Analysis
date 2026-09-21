@@ -291,9 +291,7 @@ The 2 page business report can be found [here](./CRM%20Business%20Report.pdf).
 
 ## Author
 
-**Kirby Phillips**
-
-Data Consultant | BI & Data Science
+**Kirby Phillips** | Data Consultant
 
 For any inquiries, contact me: 
 
